@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Serch1102/Serch1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About me
+I'm Sergio, a dedicated student of Computer Network Systems Administration and Cybersecurity in Spain. Passionate about technology and business, I'm on a journey to become a professional computer scientist.
 
-Here are some ideas to get you started:
+##Interests
+🌱 **Currently Learning:** Exploring cybersecurity and ethical hacking to enhance my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 **Let's talk about:** Anything related to computer science, cybersecurity, and business strategies.
+
+##Contact me
+📫 **How to reach me:**
+- 📧 E-mail: Sergio.villagreda@gmail.com
+
+Let's collaborate and explore the exciting intersection of technology and business! 🔭✨
